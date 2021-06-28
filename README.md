@@ -15,5 +15,6 @@ jupyter notebook
 * pip install beautifulsoup4 == 4.9.3
 
 To run a script click: 'Run all'
+
 ![image](https://user-images.githubusercontent.com/63716611/123647201-2a9a9f80-d828-11eb-9145-f176b2e9cddb.png)
 
