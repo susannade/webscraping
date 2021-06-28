@@ -14,3 +14,6 @@ jupyter notebook
 * pip install requests == 2.25.1
 * pip install beautifulsoup4 == 4.9.3
 
+```
+run all
+```
