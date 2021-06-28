@@ -1,16 +1,10 @@
 # Robotic Process Automation
 
 Python 3.7.9
-Make sure you have all required libraries: pandas, numpy, requests, bs4
-```
-$pip install pandas
-```
-```
-$pip install numpy
-```
-```
-$pip install requests
-```
-```
-$pip install bs4
-```
+Required packages
+
+* pip install pandas == 1.2.3
+* pip install numpy == 1.20.2
+* pip install requests == 2.25.1
+* pip install beautifulsoup4 == 4.9.3
+
